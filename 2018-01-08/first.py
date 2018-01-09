@@ -41,6 +41,7 @@ def median(numbers):
     argument: numbers=list of numbers
     return median
 
+    DocTest: Run: python -m doctest -v first.py
     Below is a the doc test to show how to call the code and what the answer would be
     >>> median([2,1,6])
     2
